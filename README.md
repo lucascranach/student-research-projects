@@ -32,6 +32,7 @@ In diesem Projekt wurde ein Gestaltungskonzept für eine mobile Anwendung für d
 - Jahr: 2018
 - [mehr zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/)
 
+---
 
 ![teaser can't touch this](https://th-koeln.github.io/mi-master-wtw/projektthemen/2020-ws-project-1/cranach-interactions.jpg)
 
