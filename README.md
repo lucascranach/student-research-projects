@@ -1,4 +1,4 @@
-![Teaserimage Timelines](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/assets/images/timelines.jpg)
+![Teaserimage Master Timeline](https://th-koeln.github.io/mi-master-wtw/projektthemen/2019-ws-project-1/cranach-timeline.jpeg)
 
 # CDA Studentische Arbeiten
 
@@ -13,6 +13,7 @@ Im Rahmen des Screendesign Projekts wurde ein Gestaltungs- und Interktionskonzep
 - Jahr: 2020
 - [mehr zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2020/)
 
+---
 
 ## Entwurf Cranach Timeline
 
@@ -22,6 +23,8 @@ Im Rahmen des Projekts wurde ein Gestaltungskonzept für eine Time-Ansicht im Cr
 - Studiengang: [Medieninformatik Bachelor](https://www.medieninformatik.th-koeln.de/study/bachelor/)
 - Jahr: 2019
 - [mehr zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2019/)
+
+---
 
 ## Cranach Mobile App
 
@@ -34,8 +37,6 @@ In diesem Projekt wurde ein Gestaltungskonzept für eine mobile Anwendung für d
 
 ---
 
-![teaser can't touch this](https://th-koeln.github.io/mi-master-wtw/projektthemen/2020-ws-project-1/cranach-interactions.jpg)
-
 ## Can't touch this
 
 Im Rahmen dieses Master Projekts sollten Möglichkeiten konzipiert und deren technische Machbarkeit evauliert werden, mit denen verschiedene Stakeholder, die Artefakte im Cranach Digital Archive(cda) erkunden können. Dabei ging es nicht darum, Wege oder Journeys durch das Gesamtwerk zu konzipieren, sondern um Erkungsmöglichkeiten bezogen auf einzelne Artefakte. Dabei sollten insbesondere die Eigenschaften einer digitalen Anwendung genutzt werden, sich hier viele Möglichkeiten, die im Realraum nicht nutz- oder anwendbar sind. 
@@ -44,6 +45,8 @@ Im Rahmen dieses Master Projekts sollten Möglichkeiten konzipiert und deren tec
 - Studiengang: [Medieninformatik Master](https://www.medieninformatik.th-koeln.de/study/master/)
 - Jahr: 2020
 - [mehr zum Projekt](https://th-koeln.github.io/mi-master-wtw/projektthemen/2020-ws-project-1/index/)
+
+---
 
 ## Konzeption, Implementierung und Evaluation Cranach Timeline
 
