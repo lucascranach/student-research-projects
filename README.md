@@ -1,3 +1,5 @@
+![Teaserimage Timelines](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/assets/images/timelines.jpg)
+
 # CDA Studentische Arbeiten
 
 Rund um das Cranach Digital Archive wurden und werden verschiedene Projekte im Rahmen von Studienprojekten und Abschlussarbeiten bearbeitet. 
