@@ -33,6 +33,8 @@ In diesem Projekt wurde ein Gestaltungskonzept für eine mobile Anwendung für d
 - [mehr zum Projekt](https://th-koeln.github.io/mi-bachelor-screendesign/projekt-2018/)
 
 
+![teaser can't touch this](https://th-koeln.github.io/mi-master-wtw/projektthemen/2020-ws-project-1/cranach-interactions.jpg)
+
 ## Can't touch this
 
 Im Rahmen dieses Master Projekts sollten Möglichkeiten konzipiert und deren technische Machbarkeit evauliert werden, mit denen verschiedene Stakeholder, die Artefakte im Cranach Digital Archive(cda) erkunden können. Dabei ging es nicht darum, Wege oder Journeys durch das Gesamtwerk zu konzipieren, sondern um Erkungsmöglichkeiten bezogen auf einzelne Artefakte. Dabei sollten insbesondere die Eigenschaften einer digitalen Anwendung genutzt werden, sich hier viele Möglichkeiten, die im Realraum nicht nutz- oder anwendbar sind. 
