@@ -1,4 +1,4 @@
-![Teaserimage Master Timeline](https://th-koeln.github.io/mi-master-wtw/projektthemen/2019-ws-project-1/cranach-timeline.jpeg)
+![Teaserimage Master Timeline](https://th-koeln.github.io/mi-bachelor-screendesign-projekte/assets/images/timelines.jpg)
 
 # CDA Studentische Arbeiten
 
