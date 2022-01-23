@@ -4,7 +4,7 @@ Rund um das Cranach Digital Archive wurden und werden verschiedene Projekte im R
 
 ## Funktionserweiterung «Bilder vergleichen»
 
-
+| Modul | Studiengang | Jahr |
 | ------------- |:-------------:| -----:|
 | Screendesign      | Medieninformatik Bachelor | 2020 |
 
